@@ -1,0 +1,16 @@
+C:\Users\matth\Class_work\Intro_programming\progchallenge\bin\Debug\net5.0\progchallenge.exe
+C:\Users\matth\Class_work\Intro_programming\progchallenge\bin\Debug\net5.0\progchallenge.deps.json
+C:\Users\matth\Class_work\Intro_programming\progchallenge\bin\Debug\net5.0\progchallenge.runtimeconfig.json
+C:\Users\matth\Class_work\Intro_programming\progchallenge\bin\Debug\net5.0\progchallenge.runtimeconfig.dev.json
+C:\Users\matth\Class_work\Intro_programming\progchallenge\bin\Debug\net5.0\progchallenge.dll
+C:\Users\matth\Class_work\Intro_programming\progchallenge\bin\Debug\net5.0\ref\progchallenge.dll
+C:\Users\matth\Class_work\Intro_programming\progchallenge\bin\Debug\net5.0\progchallenge.pdb
+C:\Users\matth\Class_work\Intro_programming\progchallenge\obj\Debug\net5.0\progchallenge.csprojAssemblyReference.cache
+C:\Users\matth\Class_work\Intro_programming\progchallenge\obj\Debug\net5.0\progchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Class_work\Intro_programming\progchallenge\obj\Debug\net5.0\progchallenge.AssemblyInfoInputs.cache
+C:\Users\matth\Class_work\Intro_programming\progchallenge\obj\Debug\net5.0\progchallenge.AssemblyInfo.cs
+C:\Users\matth\Class_work\Intro_programming\progchallenge\obj\Debug\net5.0\progchallenge.csproj.CoreCompileInputs.cache
+C:\Users\matth\Class_work\Intro_programming\progchallenge\obj\Debug\net5.0\progchallenge.dll
+C:\Users\matth\Class_work\Intro_programming\progchallenge\obj\Debug\net5.0\ref\progchallenge.dll
+C:\Users\matth\Class_work\Intro_programming\progchallenge\obj\Debug\net5.0\progchallenge.pdb
+C:\Users\matth\Class_work\Intro_programming\progchallenge\obj\Debug\net5.0\progchallenge.genruntimeconfig.cache
